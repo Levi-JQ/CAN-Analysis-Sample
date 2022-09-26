@@ -4,7 +4,7 @@
 // 调试程序: F5 或调试 >“开始调试”菜单
 //这是tb1的改动zheshiTB! suoyizheshi
 //jianghua zheshi88888
-// 入门使用技巧: 
+// 入门使用技巧: git remote add origin https://github.com/Levi-JQ/CAN-Analysis-Sample.git
 //   1. 使用解决方案资源管理器窗口添加/管理文件
 //   2. 使用团队资源管理器窗口连接到源代码管理
 //   3. 使用输出窗口查看生成输出和其他消息
